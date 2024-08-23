@@ -135,6 +135,10 @@ aside {
     height: 100vh;
 }
 
+h6{
+    font-size: 2rem;
+}
+
 aside .top {
     display: flex;
     align-items: center;
